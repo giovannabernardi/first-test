@@ -5,8 +5,8 @@ Headings:
 ## This is a secondary (smaller) heading
 ### This is a tertiary heading
 
-And as **imagination** bodies forth, The forms of things *unknown*, the poet’s pen, Unordered List: * first item 
-* second item * third item Turns them to shapes and gives to airy nothing,
+And as **imagination** bodies forth, The forms of things *unknown*, the poet’s pen, 
+Turns them to shapes and gives to airy nothing,
 A local *habitation* and a **name**.
 
 - This is 
@@ -19,7 +19,8 @@ A local *habitation* and a **name**.
 
 Here is `some code` in the middle of a sentence. 
 
-``` This is 
+``` 
+This is 
 a block 
 of code 
 ``` 
